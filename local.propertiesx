@@ -1,0 +1,4 @@
+
+# Or using micro (a more modern text editor with mouse support and standard shortcuts like Ctrl+C/Ctrl+V)
+micro local.properties
+sdk.dir=/data/data/com.termux/files/home/storage/shared/Android/Sdk
